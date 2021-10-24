@@ -1,0 +1,38 @@
+.header
+{
+    background-color:yellow ;
+    font-size: 20px ;
+    margin: 100px; 
+    text-align: center; 
+    padding: 20px;
+}
+.edu
+{
+    background-color:yellow ;
+    font-size: 20px ;
+    margin: 100px; 
+    text-align: center; 
+    padding: 20px;
+}
+.skill
+{
+    display: inline-block;
+    padding: 5px;
+    background-color: yellow;
+    margin: 10px;
+    border-radius: 5px ;
+}
+.image
+{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    border: dashed 2px;
+}
+.text
+{
+    background-color:yellow ;
+    font-size: 20px ;
+    margin: 10px;
+    margin-left: 620px;
+}
